@@ -1,1 +1,1 @@
-# Application-Spring
+# Ce projet est un code en spring de type CRUD, relier a une base de donnée (base de donnée en local, MySQL)
